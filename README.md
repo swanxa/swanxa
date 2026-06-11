@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Praveen%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Azure%20Cloud%20Administrator%20%7C%20AZ-900%20and%20AZ-104%20Certified&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Praveen%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Azure%20Cloud%20Administrator%20%7C%20AZ-900%20%26%20AZ-104%20Certified&descAlignY=58&descSize=16)
 
 </div>
 
@@ -72,6 +72,16 @@ I'm a certified Azure Cloud Administrator passionate about designing and deployi
 
 ---
 
+### 🛡️ [azure-monitoring-disaster-recovery-solution](https://github.com/swanxa/azure-monitoring-disaster-recovery-solution)
+> End-to-end Azure monitoring and disaster recovery solution using Azure Monitor, Log Analytics, Recovery Services Vault, and Site Recovery to ensure high availability and business continuity.
+
+![Azure Monitor](https://img.shields.io/badge/Azure-Monitor-0078D4?style=flat&logo=microsoftazure)
+![Log Analytics](https://img.shields.io/badge/Azure-Log%20Analytics-0078D4?style=flat&logo=microsoftazure)
+![Site Recovery](https://img.shields.io/badge/Azure-Site%20Recovery-0078D4?style=flat&logo=microsoftazure)
+![Backup](https://img.shields.io/badge/Azure-Backup%20Vault-0078D4?style=flat&logo=microsoftazure)
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -94,9 +104,10 @@ I'm a certified Azure Cloud Administrator passionate about designing and deployi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenkumar-azure/  )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
 &nbsp;
-
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR-MSLEARN-ID-HERE)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-swanxa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swanxa)
 
 </div>
