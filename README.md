@@ -1,6 +1,24 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Praveen%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Azure%20Cloud%20Administrator%20%7C%20AZ-900%20%26%20AZ-104%20Certified&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:003f8f,50:0078D4,100:00BCF2&height=220&section=header&text=Praveen%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=☁️%20Azure%20Cloud%20Administrator%20%7C%20AZ-900%20%26%20AZ-104%20Certified&descAlignY=56&descSize=17&descAlign=50&animation=fadeIn&stroke=ffffff&strokeWidth=1)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&multiline=false&width=700&height=45&lines=☁️+Azure+Cloud+Administrator;🔐+Identity+%26+Access+Management+Expert;🌐+Azure+Networking+%26+VNet+Specialist;📊+Azure+Monitor+%26+Disaster+Recovery;🚀+Building+Reliable+Cloud+Infrastructure)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=swanxa&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/swanxa?style=for-the-badge&color=0078D4&logo=github&label=FOLLOWERS)](https://github.com/swanxa)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/swanxa?style=for-the-badge&color=00BCF2&logo=github&label=STARS)](https://github.com/swanxa)
+
+<br/>
+
+[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+&nbsp;
+[![AZ-104](https://img.shields.io/badge/Microsoft%20Certified-AZ--104%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
 
 </div>
 
@@ -116,6 +134,6 @@ I'm a certified Azure Cloud Administrator passionate about designing and deployi
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BCF2,100:0078D4&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BCF2,50:0078D4,100:003f8f&height=120&section=footer&animation=fadeIn)
 
 </div>
