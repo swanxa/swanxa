@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:003f8f,50:0078D4,100:00BCF2&height=220&section=header&text=Praveen%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=☁️%20Azure%20Cloud%20Administrator%20%7C%20AZ-900%20%26%20AZ-104%20Certified&descAlignY=56&descSize=17&descAlign=50&animation=fadeIn&stroke=ffffff&strokeWidth=1)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=0:003f8f,50:0078D4,100:00BCF2&height=220&section=header&text=Praveen%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=☁️%20Azure%20Cloud%20Administrator%20%7C%20AZ-900%20%26%20AZ-104%20Certified&descAlignY=56&descSize=17&descAlign=50&animation=fadeIn&stroke=ffffff&strokeWidth=1](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Praveen%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Azure%20Cloud%20Administrator%20%7C%20AZ-900%20%26%20AZ-104%20Certified&descAlignY=58&descSize=16))
 
 <br/>
 
