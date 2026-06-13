@@ -126,8 +126,7 @@ I'm a certified Azure Cloud Administrator passionate about designing and deployi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
 &nbsp;
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR-MSLEARN-ID-HERE)
-&nbsp;
+
 [![GitHub](https://img.shields.io/badge/GitHub-swanxa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swanxa)
 
 </div>
